@@ -30,8 +30,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-left: 150px;
-  margin-right: 150px;
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -41,6 +39,7 @@
   width: 300px;
   background: rgba(50, 205, 50, 0.2);
   margin-top: 50px;
+  padding-left: 50px;
   border: solid 2px limegreen;
   border-radius: 5px;
 }
