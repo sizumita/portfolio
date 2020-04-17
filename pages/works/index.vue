@@ -31,7 +31,7 @@
   flex-wrap: wrap;
   padding-left: 50px;
   padding-right: 50px;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .content {
