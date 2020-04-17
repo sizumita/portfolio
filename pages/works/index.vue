@@ -2,19 +2,19 @@
   <div>
     <div class="contents">
       <div class="content">
-        <img src="~/assets/tea.png">
+        <a href="https://www.youtube.com/watch?v=rW57i1ZSksA"><img src="~/assets/tea.png"></a>
         <div class="content-title"><a class="url-content" href="https://www.youtube.com/watch?v=rW57i1ZSksA">Tea</a></div>
         <p class="date">2019 / 11 / 13</p>
         <p class="text">未踏ジュニアで開発した、経済シミュレーションのためのPluginシステムと、それを使用したゲームです。</p>
       </div>
       <div class="content">
-        <img src="~/assets/aegis.png">
+        <a href="https://github.com/sizumita/Aegis"><img src="~/assets/aegis.png"></a>
         <div class="content-title"><a class="url-content" href="https://github.com/sizumita/Aegis">Aegis</a></div>
         <p class="date">2019 / 11 / 22</p>
         <p class="text">多機能・高性能を目指したDiscord Botです。</p>
       </div>
       <div class="content">
-        <img src="~/assets/aimai.png">
+        <a href="https://qiita.com/sizumita/items/b98f21c20793ff791ac0"><img src="~/assets/aimai.png"></a>
         <div class="content-title"><a class="url-content" href="https://qiita.com/sizumita/items/b98f21c20793ff791ac0">Aimai</a></div>
         <p class="date">2020 / 02 / 18</p>
         <p class="text">COTOHA APIのコンテストのために作成した、曖昧な構文でも書ける日本語プログラミング言語です。</p>
