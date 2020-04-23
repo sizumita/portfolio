@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <div class="big_blank"/>
+    <img src="~/assets/icon.png" width="300" height="300"/>
+    <div class="blank"/>
     <p class="title">Sumito Izumita</p>
     <div class="blank"/>
     <div class="headline">Nicknames</div>
